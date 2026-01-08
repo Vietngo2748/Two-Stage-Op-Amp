@@ -3,25 +3,12 @@ This project discusses the design of a single-ended 60dB two stage op-amp in 65n
 *****************
 ### Implementation:
 <img width="1062" height="915" alt="image" src="https://github.com/user-attachments/assets/062789d4-1326-4b77-ac0f-7c4b4596cdf6" />
-![Image](https://github.com/user-attachments/assets/9b375c4c-68e6-4cec-b7e2-0de7cf591213)
 ### Testbench Schematics:
-![Image](https://github.com/user-attachments/assets/d3ec06e2-ddb4-4d6b-8d77-26c7aac0f163)
-### Eye Diagram:
-![Image](https://github.com/user-attachments/assets/cff4e84f-7942-4559-8260-a1f54bc963bc)
-![Image](https://github.com/user-attachments/assets/507b31b6-96b5-49cd-982a-bf2bd86ddae8)
+<img width="1754" height="707" alt="image" src="https://github.com/user-attachments/assets/194fce67-695e-4d86-8342-2c72a144be70" />
+### Closed loop gain:
+<img width="2000" height="667" alt="image" src="https://github.com/user-attachments/assets/c171d807-5a88-4f90-ab4c-8e7bc4bc1c2f" />
+### Transient:
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/d43a2d4c-b05b-4ccf-951e-1ee6ba960694" />
 
 *****************
-### Key References:
 
-[1] B. Razavi, "The Design of an Equalizer—Part Two [The Analog Mind]," in IEEE Solid-State Circuits Magazine, vol. 14, no. 1, pp. 7-12, winter 2022.
-
-[2] B. Razavi, "The Decision-Feedback Equalizer [A Circuit for All Seasons]," in IEEE Solid-State Circuits Magazine, vol. 9, no. 4, pp. 13-132, Fall 2017.
-
-[3] S. Ibrahim and B. Razavi, “Low-power CMOS equalizer design for 20-Gb/s systems,” IEEE J. Solid-State Circuits, vol. 46, no. 6, pp. 1321–1336, Jun. 2011.
-
-[4] Y. Li and F. Yuan, "Adaptive data-transition decision feedback equalizer for serial links," 2017 IEEE 60th International Midwest Symposium on Circuits and Systems (MWSCAS), Boston, MA, USA, 2017.
-
-*****************
-For design details, check the report: ([Report: RX DFE](https://github.com/muhammadaldacher/SERDES-Design-of-RX-Decision-Feedback-Equalizer/blob/main/%5BReport%5D%20RX%20DFE.pdf))</br></br>
-My project on google drive: ([Drive](https://drive.google.com/drive/folders/1ILROeJkutBS71W40WG0q5eJzDRhLPh1F?usp=drive_link)) <br/>
-*****************
