@@ -1,6 +1,7 @@
 # Two-Stage-Op-Amp
 This project discusses the design of a single-ended 60dB two stage op-amp in 65nm.
-Design Parameters and Specifications
+
+### Design Parameters and Specifications:
 | **Parameter**                  | **Specification** |
 | ------------------------------ | ----------------- |
 | Supply Voltage (VDD)           | 1.2 V             |
@@ -13,7 +14,8 @@ Design Parameters and Specifications
 | Slew Rate                      | 40 V/µs           |
 | Load Capacitance               | 1 pF              |
 | Input Common-Mode Range (ICMR) | 0.6 – 1.0 V       |
-PVT Conditions
+
+### PVT Conditions:
 | **Condition**  | **Range**          |
 | -------------- | ------------------ |
 | Process        | Typical 65 nm CMOS |
